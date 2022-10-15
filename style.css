@@ -1,0 +1,24 @@
+main{
+    background-color: aliceblue;
+    height: 500px;
+}
+.container{
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.heading{
+    font-size: 4rem;
+    font-family: sans-serif;
+}
+#value{
+    font-size: 3rem;
+}
+.btn-container{
+    padding: 2rem;
+}
+.btn{
+    background-color: rgb(5, 5, 5);
+    color: wheat;
+}
