@@ -1,0 +1,2 @@
+This is simple Counter project created in javascript by Osama web developer
+ 
